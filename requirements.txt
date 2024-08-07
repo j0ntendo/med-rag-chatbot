@@ -1,0 +1,7 @@
+langchain
+chromadb
+langchain-huggingface
+langchain-openai
+langchain-community
+langchain-chroma
+openai
